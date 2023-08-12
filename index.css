@@ -1,0 +1,22 @@
+
+#center {
+    text-align: center;
+}
+
+#aqua {
+    background-color: aqua;
+}
+
+.sup {
+    vertical-align: super;
+}
+
+textarea {
+    width: 200px;
+    height: 50px;
+    vertical-align: middle;
+}
+
+body {
+    margin: 0% 5%;
+}
